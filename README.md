@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I am Andrew Nguyen  👋
 
-<!--
-**AWin23/AWin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Andrew Nguyen - Full Stack Engineer 👨‍💻
 
-Here are some ideas to get you started:
+📞 **Phone:** 425-215-2498  
+📧 **Email:** nguyendrew20@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/awin23](https://www.linkedin.com/in/awin23/)  
+🐙 **GitHub:** [github.com/AWin23](https://github.com/AWin23)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 🎓
+**University of Washington Bothell, WA**  
+*Bachelor of Science, Computer Science and Software Engineering*  
+*September 2020 – December 2024*
+
+## Technical Skills 🛠️
+**Languages:** C#, JavaScript/TypeScript, Java, C++, CSS3/HTML5  
+**Technologies/Frameworks:** React.js, Next.js React Native, Node.js, MongoDB, AWS, Azure, Heroku, Docker, Postman Agent, Firebase, .NET
+
+## About Me 🚀
+I am a dedicated and passionate Full Stack Engineer currently pursuing a Bachelor's degree in Computer Science and Software Engineering from the University of Washington. With a strong foundation in languages such as C#, JavaScript, and Java, I have honed my skills in various technologies and frameworks, including React.js, Next.js, and Node.js. My internship experience at Fluke Corporation allowed me to contribute significantly to modernizing web applications and optimizing core web vitals. As a technical lead and coding instructor at iCode, I developed engaging curricula, fostering a passion for programming in young minds. My commitment to education and hands-on experience has shaped me into a versatile and collaborative engineer ready to take on challenging projects and make a meaningful impact.
