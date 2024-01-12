@@ -5,7 +5,6 @@
 📞 **Phone:** 425-215-2498  
 📧 **Email:** nguyendrew20@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/awin23](https://www.linkedin.com/in/awin23/)  
-🐙 **GitHub:** [github.com/AWin23](https://github.com/AWin23)
 
 ## Education 🎓
 **University of Washington Bothell, WA**  
