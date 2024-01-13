@@ -5,11 +5,6 @@
 ## 🚀 About Me 
 I am a dedicated and passionate Software Engineer currently pursuing a Bachelor's degree in Computer Science and Software Engineering from the University of Washington. With a strong foundation in languages such as C#, JavaScript, and Java, I have honed my skills in various technologies and frameworks, including React.js, Next.js, and Node.js. I take pride in being a multifaceted Software Engineer, and my commitment to education and hands-on experience has shaped me into a versatile and collaborative developer ready to take on challenging projects and make a meaningful impact.
 
-## 🧐 Interests
-- Full-stack development
-- Frontend development
-- Mobile development
-
 ## 📫 Contact Info
 📞 **Phone:** 425-215-2498  
 📧 **Email:** nguyendrew20@gmail.com  
@@ -25,6 +20,9 @@ I am a dedicated and passionate Software Engineer currently pursuing a Bachelor'
 **Technologies/Frameworks:** React.js, Next.js, React Native, Node.js, MongoDB, AWS, Azure, Heroku, Docker, Postman Agent, Firebase, .NET
 
 - 🌱 Currently learning React Native, Next.js, Swift, and Tailwind CSS.
+
+## LeetCode Card
+[![Leetcode Stats](https://leetcard.jacoblin.cool/a_win23?theme=unicorn)](https://leetcode.com/a_win23)
 
 
 
