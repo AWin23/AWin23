@@ -21,6 +21,6 @@ I am a dedicated and passionate Software Engineer currently pursuing a Bachelor'
 
 - 🌱 Currently learning React Native, Next.js, Swift, and Tailwind CSS.
 
-![Leetcode Stats](https://leetcard.a_win23/a_win23)
+![Leetcode Stats](https://leetcard.a_win23/Andrew Nguyen)
 
 
