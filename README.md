@@ -21,3 +21,5 @@ I am a dedicated and passionate Software Engineer currently pursuing a Bachelor'
 
 - 🌱 Currently learning React Native, Next.js, Swift, and Tailwind CSS.
 
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
