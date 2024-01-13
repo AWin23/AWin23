@@ -1,7 +1,5 @@
 ### Hi, I am Andrew Nguyen  👋
 
-# Andrew Nguyen - Software Engineer 👨‍💻
-
 ## 🚀 About Me 
 I am a dedicated and passionate Software Engineer currently pursuing a Bachelor's degree in Computer Science and Software Engineering from the University of Washington. With a strong foundation in languages such as C#, JavaScript, and Java, I have honed my skills in various technologies and frameworks, including React.js, Next.js, and Node.js. I take pride in being a multifaceted Software Engineer, and my commitment to education and hands-on experience has shaped me into a versatile and collaborative developer ready to take on challenging projects and make a meaningful impact.
 
