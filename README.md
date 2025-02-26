@@ -14,7 +14,7 @@ I am a dedicated Software Engineer who recently graduted with Bachelor's degree 
 *September 2020 – December 2024*
 
 ## 🛠️ Technical Skills 
-**Languages:** C#, JavaScript/TypeScript, Java, C++, CSS3/HTML5  
+**Languages:** Python, JavaScript/TypeScript, Java, CSS3/HTML5  
 **Technologies/Frameworks:** React.js, Next.js, React Native, Node.js, MongoDB, AWS, Azure, Heroku, Docker, Postman Agent, Firebase, .NET
 
 - 🌱 Currently learning React Native, Next.js, Swift, and Tailwind CSS.
