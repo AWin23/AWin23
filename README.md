@@ -17,7 +17,7 @@ I am a dedicated Software Engineer who recently graduted with Bachelor's degree 
 **Languages:** Python, JavaScript/TypeScript, Java, CSS3/HTML5  
 **Technologies/Frameworks:** React.js, Next.js, React Native, Node.js, MongoDB, AWS, Azure, Heroku, Docker, Postman Agent, Firebase, .NET
 
-- 🌱 Currently learning React Native, Next.js, Swift, and Tailwind CSS.
+- 🌱 Currently learning React Native and Swift.
 
 ## LeetCode Card
 [![Leetcode Stats](https://leetcard.jacoblin.cool/a_win23?theme=unicorn)](https://leetcode.com/a_win23)
